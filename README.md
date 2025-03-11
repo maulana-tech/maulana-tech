@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study on Universitas Teknologi Digital Indonesia<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Machine Learning and Web Dev<br>💬 Ask me about Anything<br>⚡ Fun fact
+🔭 I’m currently Study on Universitas Teknologi Digital Indonesia<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Machine Learning and Web Develpment<br>💬 Ask me about Anything in my Instagram<br>
 
 
 ## 🌐 Socials:
