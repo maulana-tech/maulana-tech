@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study on Universitas Teknologi Digital Indonesia<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Machine Learning and Web Develpment<br>💬 Ask me about Anything in my Instagram<br> I'm a Developer
+🔭 I’m currently Study on Universitas Teknologi Digital Indonesia<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Machine Learning and Web Develpment<br>💬 Ask me about Anything in my Instagram<br> 🧑‍💻 I'm a Developer you can visit my web https://lana-developer.vercel.app/
 
 
 ## 🌐 Socials:
