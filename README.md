@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently Study on Universitas Teknologi Digital Indonesia<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning AI/Machine Learning and Fullstack Web Developer<br>💬 Ask me about Anything in my Instagram<br> 🧑‍💻 I'm a Developer visit my web https://lana-developer.vercel.app/
+### Hi there! I'm a Developer based in Indonesia 🇮🇩
+
+- 🎓 Studying at **Universitas Teknologi Digital Indonesia**
+- 💻 Focus: **Fullstack Web Development & AI/ML**
+- 🌐 Portfolio: [https://lana-developer.vercel.app/](https://lana-developer.vercel.app/)
+- 🤝 Open to collaboration on new projects!
 
 
 ## 🌐 Socials:
