@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sepia-six-64.vercel.app/api?username=maulana-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maulana-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ---
