@@ -2,7 +2,7 @@
 
 - 🎓 Studying at **Universitas Teknologi Digital Indonesia**
 - 💻 Focus: **Fullstack Web Development & AI/ML**
-- 🌐 Portfolio: [https://lana-developer.vercel.app/](https://lana-developer.vercel.app/)
+- 🌐 Portfolio: [https://lanadev.web.id/](https://lanadev.web.id/)
 - 🤝 Open to collaboration on new projects!
 
 
