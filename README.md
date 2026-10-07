@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=maulana-tech&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145218955%3Fu%3Dbe31d837ebba9c6bf30cb561b333409b5c73a904%26v%3D4" alt="maulana-tech hero visual" />
 </p>
 
-**Lana** · Open-source maintainer
+**Lana** · Open-source maintainer · [lanadev.web.id](https://lanadev.web.id)
 
 ## How I contribute
 
@@ -52,5 +52,7 @@
 </p>
 
 <a href="https://github.com/maulana-tech">GitHub</a>
+<a href="https://lanadev.web.id">Portfolio</a> · <a href="https://github.com/maulana-tech">GitHub</a>
 
 <p align="center"><sub>Lana · Maintainer profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Lana · Fullstack Developer & AI/ML Engineer · <a href="https://lanadev.web.id">lanadev.web.id</a></sub></p>
